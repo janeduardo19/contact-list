@@ -1,0 +1,9 @@
+com/project/contactList/repositories/PersonRepository.class
+com/project/contactList/exception/ErrorDetails$ErrorDetailsBuilder.class
+com/project/contactList/controller/PersonController.class
+com/project/contactList/entities/Person.class
+com/project/contactList/ContactListApplication.class
+com/project/contactList/entities/Address.class
+com/project/contactList/exception/ErrorDetails.class
+com/project/contactList/exception/ResourceNotFoundException.class
+com/project/contactList/exception/GlobalExceptionHandler.class
