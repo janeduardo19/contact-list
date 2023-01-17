@@ -4,7 +4,11 @@ I am using it to study JUnit too. Also, I answered some questions about software
 always apply in my projects such as SOLID, Clean code, software design, etc. You can find all my goals, <br>
 technologies, quastions answered with the project and the process to start the project are bellow.<br>
 
- 1. 
+ 1. During the implementation of a requested new software functionality, what criteria do you evaluate<br>
+ and implement for software quality assurance?
+ R.: 
+ 
+ 2. At which stage of implementation do you consider software quality?
 
 ## Objectives
 
@@ -20,7 +24,7 @@ technologies, quastions answered with the project and the process to start the p
  - [x] Create address
  - [x] Edit address
  - [x] Inform main address
- - [ ] Lombok annotations
+ - [x] Lombok annotations
  - [ ] JUnit tests (in progress)
 
 ## Technologies
@@ -33,6 +37,15 @@ H2 database for the data persistence.
 For this you can download the source code ou clone this repository. I builded this project with maven so<br>
 in case you are using eclipse IDE too is just go to Run As -> Maven Install. After this the project will be<br>
 ready to run.
+
+## Final Considerations
+
+Some time ago I found out about Lombok, but every time I tried to put this in my latest projects I get some<br>
+internal server error. I think is something I am missing out of the annotations because it seems the project<br>
+doesn't find out the constructors or the getters/setters. It's online with REST APIs I get errors and this time<br>
+it also occur.<br>
+I always want to learn JUnit so I am using this project do learn some things, but will be some time before I can<br>
+apply this more frequently. I am learning alone after all.
 
 ## Observations
 
