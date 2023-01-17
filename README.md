@@ -1,14 +1,7 @@
 # About the project
 This is a back-end project with the goal to improve my knowledge in back-end and apis with Java.<br>
-I am using it to study JUnit too. Also, I answered some questions about software quality, which knowledge I<br>
-always apply in my projects such as SOLID, Clean code, software design, etc. You can find all my goals, <br>
-technologies, quastions answered with the project and the process to start the project are bellow.<br>
-
- 1. During the implementation of a requested new software functionality, what criteria do you evaluate<br>
- and implement for software quality assurance?
- R.: 
- 
- 2. At which stage of implementation do you consider software quality?
+I am using it to study JUnit too. You can find all my goals, technologies and the process to start<br> 
+the project are bellow.
 
 ## Objectives
 
