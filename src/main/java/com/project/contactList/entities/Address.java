@@ -6,7 +6,12 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
+import lombok.Getter;
+import lombok.Setter;
+
 @Entity
+@Getter
+@Setter
 public class Address {
 	
 	@Id
@@ -40,53 +45,5 @@ public class Address {
 		this.cep = cep;
 		this.number = number;
 		this.city = city;
-	}
-
-	public long getAddress_id() {
-		return address_id;
-	}
-
-	public void setAddress_id(long address_id) {
-		this.address_id = address_id;
-	}
-
-	public String getAddress() {
-		return address;
-	}
-
-	public void setAddress(String address) {
-		this.address = address;
-	}
-
-	public String getCep() {
-		return cep;
-	}
-
-	public void setCep(String cep) {
-		this.cep = cep;
-	}
-
-	public String getNumber() {
-		return number;
-	}
-
-	public void setNumber(String number) {
-		this.number = number;
-	}
-
-	public String getCity() {
-		return city;
-	}
-
-	public void setCity(String city) {
-		this.city = city;
-	}
-
-	public Boolean getMainAddress() {
-		return mainAddress;
-	}
-
-	public void setMainAddress(Boolean mainAddress) {
-		this.mainAddress = mainAddress;
 	}
 }
